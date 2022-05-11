@@ -7,3 +7,5 @@ Chakra fue usado para diseñar la web y proporcionar los estilos necesarios.
 Capturas de pantalla:
 
 ![image](https://user-images.githubusercontent.com/55546022/167908445-16fb4841-6e2a-4c68-9444-d2350dc603a1.png)
+
+Ejecutar npm run dev para ejecutar server y poder obtener los datos de la API
